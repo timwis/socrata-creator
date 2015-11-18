@@ -1,0 +1,14 @@
+[
+	{
+		"fieldName": "field_a",
+		"name": "Field A",
+		"dataTypeName": "text",
+		"description": "First field"
+	},
+	{
+		"fieldName": "field_b",
+		"name": "Field B",
+		"dataTypeName": "number",
+		"description": "Second field"
+	}
+]
