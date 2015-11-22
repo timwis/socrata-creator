@@ -1,6 +1,9 @@
 # Socrata Creator
 Create Socrata datasets via API. Complementary to [socrata-pusher](https://github.com/timwis/socrata-pusher).
 
+# Note: this functionality is being incorporated into [sodapy](https://github.com/xmunoz/sodapy/pull/8)
+This repo only serves as a demonstration/proof of concept
+
 ## Installation
 `pip install -r requirements.txt`
 
